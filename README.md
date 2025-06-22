@@ -1,30 +1,50 @@
 <br />
 <div align="center">  
   <img src="https://github.com/Oxlac/AI-News-Summariser/assets/73121234/35981902-47c3-4143-ad88-6ff1100e9c64" alt="Logo" width="200" height="200">
-  <h3 align="center">AI-Article-Summariser</h3>
+  <h2 align="center">AI Article Summariser</h2>
+  <p align="center">
+    A lightweight, intelligent summarizer for news articles using NLP and Flask.
+    <br />
+    <a href="https://github.com/Oxlac/AI-News-Summariser/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/Oxlac/AI-News-Summariser/issues">Request Feature</a>
+  </p>
 </div>
 
-## About The Project
+---
 
->[!CAUTION]
->Ensure that you use this tool responsibly. Respect the copyrights and terms of use of the news sources.
+## 🚀 Features
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+- Automatic summarization of news articles.
+- Supports multiple news sources.
+- Export summaries for offline reading.
+- Simple and accessible web interface.
 
-### Features
-* Automatic summarization of news articles.
-* Support for multiple news sources.
-* Easily accessible web interface.
-Export summarized content for offline reading.
+<p align="right">(<a href="#top">back to top</a>)</p>
 
-### Built With
-* Python
-* Newspaper3k
-* Flask
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+---
 
-## Getting Started
-AI-News-Summariser can be installed and used on various platforms. Follow the steps below to get started.
+## 🛠️ Built With
+
+- **Python**
+- **Flask**
+- **Newspaper3k**
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+---
+
+## ⚙️ Getting Started
+
+This project can be installed and run locally on any platform. Follow the steps below to set it up.
+
+### Installation
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/Oxlac/AI-News-Summariser.git
+   cd AI-News-Summariser
+
 
 
 ### Installation
