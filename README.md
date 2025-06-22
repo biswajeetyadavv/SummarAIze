@@ -6,10 +6,6 @@
 
 ## About The Project
 
-![AI-Article-Summariser Screen Shot](image.png)
-
-AI-Article-Summariser is a tool designed to automatically generate concise summaries of news articles using artificial intelligence. Stay informed without spending too much time reading lengthy articles.
-
 >[!CAUTION]
 >Ensure that you use this tool responsibly. Respect the copyrights and terms of use of the news sources.
 
